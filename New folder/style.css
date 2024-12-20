@@ -1,0 +1,26 @@
+body{
+    background-image: url(images/dodge-charger-muscle-car-black-tuning-desktop-wallpaper.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+nav{
+    padding: 20px;
+    font-display: 20px;
+    display: inline;
+}
+nav a{
+    padding-right: 20px;
+    text-decoration: none;
+    text-align: justify;
+    font-family: cursive;
+    font-style: italic;
+    color: darkred;
+}
+h1{
+font-family: cursive;
+color: darkred;
+}
+
+
+  
